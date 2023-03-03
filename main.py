@@ -15,3 +15,8 @@ with col2:
     Including CI/CD, Jenkins, Maden, Jason, AWS, Git, ...
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I've built in Python. Feel free to contact me!
+"""
+st.write(content2)
