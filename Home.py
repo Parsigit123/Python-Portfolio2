@@ -6,7 +6,7 @@ col1, col2 = st.columns(2)
 import pandas
 
 with col1:
-    st.image("images/photo.png", width=400)
+    st.image("images/photo.png", width=300)
 
 with col2:
     st.title("Parsova Khayatan")
